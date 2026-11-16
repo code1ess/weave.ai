@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html lang="{{ request()->attributes->get('ui')['locale'] ?? 'en' }}" dir="{{ request()->attributes->get('ui')['direction'] ?? 'ltr' }}" data-theme="{{ request()->attributes->get('ui')['theme'] ?? 'dark' }}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">@vite('resources/js/user/app.ts')@inertiaHead</head><body>@inertia</body></html>
