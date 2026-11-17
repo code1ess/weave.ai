@@ -13,6 +13,7 @@ node_modules/
 vendor/
 .venv/
 venv/
+.agents/
 __pycache__/
 *.py[cod]
 *.egg-info/

@@ -23,7 +23,8 @@
     "typescript": "^6.0.3",
     "vite": "^8.0.0",
     "vue-tsc": "^3.3.14",
-    "@css-render/vue3-ssr": "0.15.14"
+    "@css-render/vue3-ssr": "0.15.14",
+    "@prettier/plugin-php": "^0.22.4"
   },
   "optionalDependencies": {
     "@laravel/multiplex": "^0.4.1"
